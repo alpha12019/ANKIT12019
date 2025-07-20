@@ -85,8 +85,8 @@
 </div>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/harshit-gangwar-5ab56b252/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="mailto:harshitgangwar51102@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="gmail" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/ankit-raj-80b518208/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="mailto:rajankit12019@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="gmail" /></a>
 </p>
 
 <div align="center">
