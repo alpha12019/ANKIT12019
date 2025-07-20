@@ -1,7 +1,7 @@
 <p align="center">
   <img src="213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 </p>
-<h1>Hi 👋, I'm Harshit</h1>
+<h1>Hi 👋, I'm Ankit</h1>
 <p>A passionate full stack developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="center">
@@ -90,11 +90,12 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-G51102&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-G51102&theme=aura&hide_border=true" width="50%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-G51102&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANKIT12019&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANKIT12019&theme=aura&hide_border=true" width="50%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT12019
+&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-G51102&show_icons=true&locale=en" alt="harshit-G51102" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-G51102&" alt="harshit-G51102" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-G51102&show_icons=true&locale=en&layout=compact" alt="harshit-G51102" /></p> -->
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-G51102&theme=juicyfresh" alt="harshit-G51102" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANKIT12019&theme=juicyfresh" alt="ANKIT12019" /></a></p>
