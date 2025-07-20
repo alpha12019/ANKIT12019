@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner3.png" alt="Banner" width="100%" />
+  <img src="213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 </p>
 <h1>Hi 👋, I'm Harshit</h1>
 <p>A passionate full stack developer</p>
