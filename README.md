@@ -1,7 +1,7 @@
 <p align="center">
   <img src="213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 </p>
-<h1>Hi 👋, I'm Ankit</h1>
+<h1>Hi 👋</h1>
 <p>A passionate full stack developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="center">
