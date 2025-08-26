@@ -85,12 +85,12 @@
 </div>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/ankit-raj-80b518208/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="mailto:rajankit12019@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="gmail" /></a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANKIT12019&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alpha12019&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANKIT12019&theme=aura&hide_border=true" width="50%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT12019
 &theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
@@ -98,4 +98,4 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-G51102&show_icons=true&locale=en" alt="harshit-G51102" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-G51102&" alt="harshit-G51102" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-G51102&show_icons=true&locale=en&layout=compact" alt="harshit-G51102" /></p> -->
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANKIT12019&theme=juicyfresh" alt="ANKIT12019" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpha12019&theme=juicyfresh" alt="alpha12019" /></a></p>
